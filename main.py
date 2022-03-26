@@ -17,7 +17,7 @@ class Test(unittest.TestCase):
     HeaderMissingErrorMsg = "Could Not Find Header Text"
     ChromeDriverPath = "./drivers/chromedriver.exe"
 
-    # FireFoxDriverPath = "./drivers/geckodriver.exe" #Uncomment to launch with Firefox browser
+    # FireFoxDriverPath = "./drivers/geckodriver.exe"
     # EdgeDriverPath = "./drivers/msedgedriver.exe"
 
     @classmethod  # Method to Initialize  Drivers
