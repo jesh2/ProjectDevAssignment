@@ -1,1 +1,2 @@
 
+This project is a simple automation done to search for the keyword ' Selenium' and then goto the url 'selenium.dev' and get the corresponding header text for the same.
